@@ -1,11 +1,11 @@
-About r-visualize
-=================
+About r-visualize-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-visualize-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/coatless/visualize, http://thecoatlessprofessor.com/projects/visualize/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-visualize-feedstock/blob/main/LICENSE.txt)
 
 Summary: Graphs the pdf or pmf and highlights what area or probability is present in user defined locations. Visualize is able to provide lower tail, bounded, upper tail, and two tail calculations. Supports strict and equal to inequalities.  Also provided on the graph is the mean and variance of the distribution.
 
